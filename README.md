@@ -1,7 +1,7 @@
 # Using GIS to address climate change
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-<img alt = "Addressing Climate Change StoryMaps GIF" img src="./Coral Reef Bleaching Dashboard_EmekaEmeche (1).gif"/>
+<img alt = "Addressing Climate Change StoryMaps GIF" img src="./Using GIS to address climate change - Google Chrome 2024-06-13 21-22-08.gif"/>
 
 ## How It's Made:
 
