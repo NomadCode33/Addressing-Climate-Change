@@ -5,7 +5,9 @@ An ArcGIS StoryMap that highlights my GIS work on studying and addressing climat
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** ArcGIS StoryMaps, ArcGIS Pro, ArcGIS Online, ArcGIS Instant Apps, ArcGIS Dashboards, ArcGIS Living Atlas, ArcGIS Survey123, ArcGIS Network Analyst
+
+I first downloaded the files and went on ArcGIS StoryMaps to create a new story. From there I added the basic elements down such as adding a title, a captivating short introduction, and an effective roadmap for great flow in the StoryMap
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
