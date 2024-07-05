@@ -1,5 +1,5 @@
 # Using GIS to address climate change
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+An ArcGIS StoryMap that highlights my GIS work on studying and addressing climate change, designed to share my findings and spark further dialogue.
 
 <img alt = "Addressing Climate Change StoryMaps GIF" img src="./Using GIS to address climate change - Google Chrome 2024-06-13 21-22-08.gif"/>
 
