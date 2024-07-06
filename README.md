@@ -27,11 +27,9 @@ I concluded with a call to action, encouraging viewers to continue the dialogue 
 
 ## Lessons Learned:
 
+I loved the process of creating this StoryMap because it represents the culmination of all my projects, coming together to create a cohesive narrative. Each project I’ve completed contributes a crucial part of the whole picture, covering all the bases. I learned to source material from various projects, including web maps, apps, dashboards, and more. This process reminded me of creating PowerPoint slides, where every detail, no matter how small, is essential for captivating the audience and making the presentation engaging.
 
-It's akin to Powerpoint slides
-The improtantance of crafting a captivating story to improve change and action
-
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+This leads to another valuable lesson I learned: crafting a compelling story that can inspire change and motivate others to take action. It’s important to present work that is not only visually appealing but also allows the audience to grasp the real-world ramifications of our choices on the environment. The StoryMap can teach viewers that, although these issues are significant, we can take steps to address them and develop long-term preventative plans. Ultimately, it shows that we can coexist peacefully with the environment we live in, which we call Earth.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
